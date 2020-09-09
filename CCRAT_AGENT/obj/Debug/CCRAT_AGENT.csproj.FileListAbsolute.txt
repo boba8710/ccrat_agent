@@ -1,0 +1,10 @@
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\bin\Debug\CCRAT_AGENT.exe.config
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\bin\Debug\CCRAT_AGENT.exe
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\bin\Debug\CCRAT_AGENT.pdb
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\bin\Debug\Newtonsoft.Json.dll
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\bin\Debug\Newtonsoft.Json.xml
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\obj\Debug\CCRAT_AGENT.csprojAssemblyReference.cache
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\obj\Debug\CCRAT_AGENT.csproj.CoreCompileInputs.cache
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\obj\Debug\CCRAT_AGENT.csproj.CopyComplete
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\obj\Debug\CCRAT_AGENT.exe
+H:\Workspaces\C#\repos\CCRAT_AGENT\CCRAT_AGENT\obj\Debug\CCRAT_AGENT.pdb

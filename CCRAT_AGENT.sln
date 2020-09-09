@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCRAT_AGENT", "CCRAT_AGENT\CCRAT_AGENT.csproj", "{B7F75400-78CC-4B66-8F8E-B036F998B04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F75400-78CC-4B66-8F8E-B036F998B04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F75400-78CC-4B66-8F8E-B036F998B04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F75400-78CC-4B66-8F8E-B036F998B04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F75400-78CC-4B66-8F8E-B036F998B04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFDEDBF1-4E09-4BED-BFB7-F01C92879C37}
+	EndGlobalSection
+EndGlobal
